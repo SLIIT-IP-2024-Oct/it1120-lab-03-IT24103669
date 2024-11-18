@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EmployeeSalaryCalculator {
+public class IT24103669Lab3Q2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the monthly salary: ");
