@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CurrencyDenominations {
+public class IT24103669Lab3Q3 {
 
     public static void main(String[] args) {
        
