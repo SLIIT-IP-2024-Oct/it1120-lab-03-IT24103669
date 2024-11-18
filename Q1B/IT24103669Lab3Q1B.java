@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RicePriceCalculatorWithDiscount {
+public class IT24103669Lab3Q1B {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
