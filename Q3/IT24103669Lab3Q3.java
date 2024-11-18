@@ -14,4 +14,10 @@ public class IT24103669Lab3Q3 {
         int[] denominations = {5000, 1000, 500, 200, 100, 50, 20, 10, 5, 2, 1};
         
         for (int denomination : denominations) {
-            in
+            int count = amount / denomination;
+          amount = amount % denomination; 
+        System.out.println(denomination + " Notes – " + count); // Print the result
+        }
+         scanner.close();
+    }
+}
